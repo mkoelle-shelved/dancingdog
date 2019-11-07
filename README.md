@@ -2,6 +2,8 @@
 
 Dog training tracker
 
+[![Build Status](https://dronebot.mkoelle.com/api/badges/mkoelle/dancingdog/status.svg)](https://dronebot.mkoelle.com/mkoelle/dancingdog)
+
 ## Install the dependencies
 ```bash
 yarn
